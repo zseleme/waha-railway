@@ -1,1 +1,2 @@
 FROM devlikeapro/waha
+ENV WHATSAPP_DEFAULT_ENGINE=NOWEB
